@@ -94,7 +94,7 @@ public class ESPGame {
         System.out.println("For loop ended.");
         
         System.out.println("\nGame Over");
-        //confirm the correct guess
+        //confirm the number of correct guesses
         System.out.println("You guessed " + correctGuesses + " out of 3 colors correctly.");
 
         //get user's information
